@@ -4,4 +4,6 @@ Combining JS, HTML, SVG and CSS, D3 makes is possible to create beautiful visual
 
 Here is what the final product looks like: http://ilukwe.com/d3tutorial/columns.html
 
-See the tutorial here: http://bit.ly/d3tut
+See the tutorial [here] (http://bit.ly/d3tut)
+
+[MIT License](http://opensource.org/licenses/MIT)
